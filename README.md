@@ -1,13 +1,12 @@
-# Concept Design Prototype of a Spur Gear
+# A Keyed Gear with Angled Teeth and a Raised Hub
 
 ## Summary
 
----
+Gears transmit motion and torque from one shaft to another, and their tooth geometry decides how smoothly and quietly they run. This project explores how a gear can be modeled computationally, from its tooth pattern to the hub that mounts it on a shaft.
 
-## Design Motivation
+The model is a toothed wheel with a raised central hub and a bore that has a keyway cut into it. The keyway lets the gear be locked to a shaft with a key, so that torque is transferred without slipping. The teeth are evenly spaced around the rim, and in the render they are cut at an angle across the face width rather than straight across it. The main challenge was to space the teeth uniformly around the rim and keep the hub, bore, and keyway concentric with the toothed wheel.
 
-| Name | Image |
-| :--: | :---: |
+The gear was developed as a computational model in SolidWorks. The views below show the teeth, the hub, and the bore from every side, along with a section view of the part. This prototype is a base concept design that can be developed further into a gear with a true involute profile that meshes with a mating gear. Defining the gear dimensions properly is an important step before it can be used in a real mechanism.
 
 ---
 
@@ -26,11 +25,32 @@
 
 ---
 
-## Technologies Used
+## Software Used
 
-| Purpose |             Software              |
+| Purpose |               Name                |
 | :-----: | :-------------------------------: |
-| Design  | SolidWorks 2024 (Student Edition) |
+| Design  | SolidWorks 2024 (Student Version) |
+
+---
+
+## Tools Used
+
+| No  | Name |
+| :-: | :--: |
+| 01  |      |
+| 02  |      |
+| 03  |      |
+| 04  |      |
+| 05  |      |
+| 06  |      |
+| 07  |      |
+| 08  |      |
+| 09  |      |
+| 10  |      |
+
+---
+
+## Image of the Tool Used
 
 ---
 

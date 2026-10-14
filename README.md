@@ -45,7 +45,7 @@ The gear was developed as a computational model in SolidWorks. The views below s
 
 ---
 
-## Image of the Tool Used
+## Feature Tree
 
 ![Image of the Tool Used](images/spur_gear_tool_used.png)
 

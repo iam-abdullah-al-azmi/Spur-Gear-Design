@@ -75,6 +75,12 @@ The gear should be generated from standard parameters such as module, pressure a
 
 ---
 
+## Acknowledgements
+
+Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
+
+---
+
 ## References
 
 [^1]: [What is a spur gear?](https://blog.igus.co.uk/what-is-a-spur-gear/)
@@ -82,9 +88,3 @@ The gear should be generated from standard parameters such as module, pressure a
 [^2]: [What is a Spur Gear? Types, Benefits and Applications](https://mechtex.com/blog/what-are-spur-gears-types-bemefits-and-applications)
 
 [^3]: [Dynatorque spur and miter gears](https://www.slb.com/valves/gear-operators/dynatorque-spur-and-miter-gears)
-
----
-
-## Acknowledgements
-
-Special thanks to the [EasyCAD Solutions](https://www.youtube.com/@EasyCADSolutions) YouTube channel for the SolidWorks tutorials that helped in creating this design.
